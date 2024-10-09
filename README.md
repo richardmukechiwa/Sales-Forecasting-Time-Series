@@ -77,8 +77,6 @@ Python Libraries: pmdarima (auto-ARIMA), statsmodels (ARIMA), Prophet
 Data Visualization: Matplotlib, Prophet’s visualization utilities
 Stationarity Testing: Augmented Dickey-Fuller (adfuller)
 
-How to Run:
-
-Clone the repository.
-Install dependencies using pip install -r requirements.txt.
-Run forecast.py to generate the sales forecast.
+### Link to App: https://sales-forecasting-time-series-jbdfpvsmynjssjecjxixsj.streamlit.app/
+- enter any number of weeks between 1 and 52
+- check focast on chart.
