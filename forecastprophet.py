@@ -6,7 +6,7 @@ from prophet import Prophet
 from prophet.plot import plot_plotly, plot_components_plotly
 
 # Load data
-df= pd.read_csv("C:/Users/RICH-FILES/Downloads/MachineLearning/10 portfolioprojects/Walmart_Sales.csv", dayfirst=True, parse_dates=True)
+df= pd.read_csv("Walmart_Sales.csv", dayfirst=True, parse_dates=True)
 
 # extract date and weekly sales columns
 sales_df = df[['Date', 'Weekly_Sales']]
