@@ -33,7 +33,7 @@ Date: Time index used to build the time series.
   predicting long-term trends.
 - The key takeaway here was understanding how different models handle seasonality and how that impacts forecast accuracy.
 
-###### Results:
+#### Results:
 
 **ARIMA:** Delivered robust short-term forecasts but struggled slightly with long-term seasonality.
 
