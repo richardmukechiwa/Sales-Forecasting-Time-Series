@@ -42,6 +42,7 @@ Date: Time index used to build the time series.
 ###### Evaluation Metrics:
 
 RMSE was used to assess model performance:
+
 **ARIMA RMSE:** 119295.84390709609
 
 **Prophet RMSE:** 311124.40357155114
