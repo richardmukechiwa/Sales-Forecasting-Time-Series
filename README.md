@@ -54,6 +54,10 @@ Visualizations: I visualized both models' predictions using Prophet’s built-in
 
 ![time](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/arima%20pred.png)
 
+### **Prophet Visuals**
+
+![](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/forecast1.png)
+
 ![pic](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/Time%20series%20.png)
 
 Conclusion: Both ARIMA and Prophet are valuable tools for time series forecasting. ARIMA is excellent for short-term forecasting, while Prophet shines in long-term forecasting, particularly in data with holiday and seasonal trends. This project highlights the importance of model selection based on the specific characteristics of the time series data.
