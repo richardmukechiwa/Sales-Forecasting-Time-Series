@@ -1,28 +1,4 @@
-## Time Series Forecasting of Weekly Sales Using ARIMA and Prophet
-
-
-
-In this project, I used historical sales data to predict weekly sales for a retail store, helping to improve decision-making in areas like inventory and staffing. Leveraging advanced time series models such as ARIMA and Prophet, I forecasted future sales based solely on the Weekly Sales and Date columns.
-
-Methodology:
-
-I began by testing for stationarity using the Augmented Dickey-Fuller (ADF) test, which showed that the time series needed differencing to become stationary.
-For the ARIMA model, I used auto-ARIMA from pmdarima, which automated the selection of the best parameters (p, d, q) for the model. ARIMA captured linear trends and seasonality in the data.
-To complement ARIMA, I employed Prophet from Facebook, known for its ability to model complex seasonal patterns, holidays, and non-linear trends.
-Challenges Faced: A key challenge was handling the differences in the Root Mean Squared Error (RMSE) between ARIMA and Prophet. While both models performed well, Prophet showed better handling of long-term seasonality, especially around holidays, which caused a more significant difference in RMSE between the two models.
-
-Results:
-
-Both models performed well with minimal tuning, but Prophet slightly outperformed ARIMA due to its flexibility in modeling seasonality and holiday effects.
-The models were evaluated using RMSE and MAE (Mean Absolute Error), and Prophet consistently produced more accurate forecasts in this retail sales context.
-Tools Used:
-
-Python Libraries: pmdarima (auto-ARIMA), statsmodels (ARIMA), Prophet
-Data Analysis: Pandas, Matplotlib
-Impact: This project reinforced my skills in time series forecasting and data-driven decision-making. The ability to accurately predict sales trends empowers businesses to optimize operations, improve inventory planning, and manage staffing needs efficiently.
-
-GitHub ReadMe - Comprehensive Report (Final)
-Project Title: Time Series Forecasting of Weekly Sales Using ARIMA and Prophet
+#### Project Title: Time Series Forecasting of Weekly Sales Using ARIMA and Prophet
 
 Overview: In this project, I utilized historical sales data to forecast weekly sales for a retail store. The primary goal was to help the business make informed decisions regarding inventory management, staffing, and promotions. The project involved using two time series forecasting models: ARIMA and Prophet.
 
