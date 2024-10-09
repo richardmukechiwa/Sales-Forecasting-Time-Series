@@ -54,6 +54,8 @@ Visualizations: I visualized both models' predictions using Prophet’s built-in
 
 ![time](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/arima%20pred.png)
 
+![](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/futurepred.png)
+
 ### **Prophet Visuals**
 
 ![](https://github.com/richardmukechiwa/Sales-Forecasting-Time-Series/blob/main/forecast1.png)
