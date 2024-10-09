@@ -77,6 +77,6 @@ Python Libraries: pmdarima (auto-ARIMA), statsmodels (ARIMA), Prophet
 Data Visualization: Matplotlib, Prophet’s visualization utilities
 Stationarity Testing: Augmented Dickey-Fuller (adfuller)
 
-### Link to App: https://sales-forecasting-time-series-jbdfpvsmynjssjecjxixsj.streamlit.app/
+**Link to App:**  https://sales-forecasting-time-series-jbdfpvsmynjssjecjxixsj.streamlit.app/
 - enter any number of weeks between 1 and 52
 - check focast on chart.
