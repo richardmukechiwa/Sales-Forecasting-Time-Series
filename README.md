@@ -1,6 +1,8 @@
 ## Project Title: Time Series Forecasting of Weekly Sales Using ARIMA and Prophet
 
-Overview: In this project, I utilized historical sales data to forecast weekly sales for a retail store. The primary goal was to help the business make informed decisions regarding inventory management, staffing, and promotions. The project involved using two time series forecasting models: ARIMA and Prophet.
+### Overview:
+
+In this project, I utilized historical sales data to forecast weekly sales for a retail store. The primary goal was to help the business make informed decisions regarding inventory management, staffing, and promotions. The project involved using two time series forecasting models: ARIMA and Prophet.
 
  ##### **Dataset:**
 
